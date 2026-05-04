@@ -1,0 +1,56 @@
+   1  ssh-keygen -t ed25519 -C "dalitsoradebe@gmail.com"
+    2  ls -la
+    3  cd
+    4  ls -la
+    5  cd .ssh
+    6  ls
+    7  cat id_ed25519.pub
+    8  gh auth status
+    9  gh auth login
+   10  . code
+   11  ls
+   12  cd student_sub_system
+   13  . code
+   14  ls
+   15
+   16  ls
+   17  cd student_sub_system
+   18  code .
+   19  cd
+   20  ls -la
+   21  cd .ssh
+   22  code .
+   23  cd
+   24  cd ..
+   25  cd ..
+   26  cd /Desktop/student_sub_system
+   27  cd /Desktop/student_sub_system
+   28  cd Desktop/student_sub_system
+   29  cd
+   30  cd Desktop/student_sub_system
+   31  git init
+   32  git status
+   33  git add.
+   34  git add .
+   35  git commit -m "Section A answers"
+   36  git push
+   37  cd .
+   38  cd Desktop
+   39  cd
+   40  cd Desktop/
+   41  git clone https://github.com/DalitsoRadebe/student_sub_system.git
+   42  cd student_sub_system
+   43  code .
+   44  code .
+   45  mkdir files
+   46  cd files
+   47  touch index.html
+   48  ls
+   49  touch about.html
+   50  history.txt
+   51  touch history.txt
+   52  ls
+   53  git status
+   54  git add .
+   55  git commit -m "Created new folders SECTION A, B and C respectuively and they all contain answers relative to their questions"
+   56  history
