@@ -8,9 +8,9 @@
 
 | Field | Details |
 |-------|---------|
-| **Student Name** | [Your Full Name] |
-| **Student / ID Number** | [Your Student ID] |
-| **Date** | [DD Month YYYY] |
+| **Student Name** | John Radebe |
+| **Student / ID Number** | 0307295707086 |
+| **Date** | 02-May-2026 |
 | **Assessor** | [Assessor's Name] |
 | **Assessor Date** | [DD Month YYYY] |
 | **Assessor Signature** | [To be completed by assessor] |
